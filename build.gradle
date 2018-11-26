@@ -1,0 +1,15 @@
+group 'org.antlr.jetbrains'
+version '0.5'
+
+repositories {
+    mavenCentral()
+    jcenter()
+}
+
+dependencies {
+    compile 'org.antlr:antlr4:4.7.1'
+}
+
+task wrapper(type: Wrapper) {
+    gradleVersion = '5.0' //version required
+}
