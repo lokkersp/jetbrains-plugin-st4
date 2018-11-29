@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="515d77da-423a-4ad2-b9ef-8813e3ca95c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jetbrains-plugin-st4.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/jetbrains-plugin-st4.ipr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jetbrains-plugin-st4.iws" beforeDir="false" afterPath="$PROJECT_DIR$/jetbrains-plugin-st4.iws" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,16 +14,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+            <state relative-caret-position="204">
+              <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jetbrains-plugin-st4.ipr">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-2194" />
@@ -49,13 +48,42 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/settings.gradle" />
-        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="F:/dalet-grpc/src/java-apis/NotifierAPI/src/main/java/com/dalet/notifier/gen/AdvancedAddress.java" />
+        <option value="F:/dalet-grpc/src/java-apis/NotifierAPI/src/main/java/com/dalet/notifier/gen/Message.java" />
+        <option value="F:/dalet-grpc/src/java-apis/settings.gradle" />
+        <option value="F:/dalet-grpc/src/java-apis/NotifierAPI/build.gradle" />
+        <option value="F:/dalet-grpc/src/java-apis/NotifierAPI/src/main/java/com/dalet/notifier/gen/NotifierManager.java" />
+        <option value="F:/dalet-grpc/src/projects/dil-complete-compiler/src/main/java/com/dalet/dil/cli/CliOption.java" />
+        <option value="F:/dalet-grpc/src/projects/dil-complete-compiler/src/main/java/com/dalet/dil/cli/CliConstants.java" />
+        <option value="F:/dalet-grpc/src/projects/dil-complete-compiler/src/main/java/com/dalet/dil/cli/CliSpec.java" />
+        <option value="F:/dalet-grpc/src/projects/dil-complete-compiler/src/main/java/com/dalet/Transpiler.java" />
         <option value="F:/dalet-grpc/src/projects/dil-complete-compiler/src/main/resources/java/Class.stg" />
+        <option value="F:/dalet-grpc/src/projects/dil-complete-compiler/src/main/java/com/dalet/dil/helpers/Eval.java" />
+        <option value="F:/dalet-grpc/src/projects/dil-complete-compiler/src/main/resources/java/InterfaceClientImpl.stg" />
+        <option value="F:/dalet-grpc/src/projects/dil-complete-compiler/src/main/java/com/dalet/dil/HelloListener.java" />
+        <option value="F:/dalet-grpc/src/projects/dil-complete-compiler/src/main/java/com/dalet/dil/types/DILTypes.java" />
+        <option value="F:/dalet-grpc/src/projects/dil-complete-compiler/src/main/java/com/dalet/dil/types/InternalFieldRepresentation.java" />
+        <option value="F:/dalet-grpc/src/projects/dil-complete-compiler/src/main/java/com/dalet/dil/types/InternalInterfaceRepresentation.java" />
+        <option value="F:/dalet-grpc/src/projects/dil-complete-compiler/src/main/java/com/dalet/dil/types/InternalMethodArgRepresentation.java" />
+        <option value="F:/dalet-grpc/src/projects/dil-complete-compiler/src/main/java/com/dalet/dil/types/InternalMethodOptionRepresentation.java" />
+        <option value="F:/dalet-grpc/src/projects/dil-complete-compiler/src/main/java/com/dalet/dil/types/InternalMethodRepresentation.java" />
+        <option value="F:/dalet-grpc/src/projects/dil-complete-compiler/src/main/java/com/dalet/dil/types/InternalTupleChildRepresentation.java" />
+        <option value="F:/dalet-grpc/src/projects/dil-complete-compiler/src/main/java/com/dalet/dil/types/InternalTupleRepresentation.java" />
+        <option value="F:/dalet-grpc/src/projects/dil-complete-compiler/src/main/java/com/dalet/dil/types/BaseTypeMapper.java" />
+        <option value="F:/dalet-grpc/src/projects/dil-complete-compiler/src/main/java/com/dalet/dil/types/CombinedTypeRepresentation.java" />
+        <option value="F:/dalet-grpc/src/projects/dil-complete-compiler/src/main/java/com/dalet/dil/types/DILFile.java" />
+        <option value="F:/dalet-grpc/src/projects/dil-complete-compiler/src/main/java/com/dalet/dil/types/DILFileCollection.java" />
+        <option value="F:/dalet-grpc/src/projects/dil-complete-compiler/src/main/java/com/dalet/dil/types/DILGroup.java" />
+        <option value="F:/dalet-grpc/src/projects/dil-complete-compiler/src/main/java/com/dalet/dil/types/DILGroupCollection.java" />
+        <option value="F:/dalet-grpc/src/projects/dil-complete-compiler/src/main/java/com/dalet/dil/types/EnumField.java" />
+        <option value="F:/dalet-grpc/src/projects/dil-complete-compiler/src/main/java/com/dalet/dil/types/InternalEnumRepresentation.java" />
+        <option value="F:/dalet-grpc/src/projects/dil-complete-compiler/src/main/java/com/dalet/dil/types/InternalErrorRepresentation.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
+    <option name="x" value="1912" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
@@ -103,7 +131,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543243626123" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543473227171" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -155,16 +183,15 @@
       <option name="presentableId" value="Default" />
       <updated>1543242223091</updated>
       <workItem from="1543242224667" duration="186000" />
-      <workItem from="1543242417295" duration="1059000" />
+      <workItem from="1543242417295" duration="1709000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1245000" />
+    <option name="totallyTimeSpent" value="1895000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -205,13 +232,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -222,6 +242,13 @@
     <entry file="file://$PROJECT_DIR$/jetbrains-plugin-st4.ipr">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2194" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
       </provider>
     </entry>
   </component>
